@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tileset version="1.2" tiledversion="1.2.4" name="SugarSpiteAllTiles" tilewidth="48" tileheight="16" tilecount="18" columns="0">
+<tileset version="1.2" tiledversion="1.2.4" name="SugarSpiteAllTiles" tilewidth="48" tileheight="32" tilecount="21" columns="0">
  <grid orientation="orthogonal" width="1" height="1"/>
  <tile id="0">
   <image width="16" height="16" source="BrickTile.png"/>
@@ -54,5 +54,14 @@
  </tile>
  <tile id="23">
   <image width="48" height="16" source="Sign.png"/>
+ </tile>
+ <tile id="24">
+  <image width="32" height="32" source="tree.png"/>
+ </tile>
+ <tile id="25">
+  <image width="16" height="16" source="ForestFloorTile.png"/>
+ </tile>
+ <tile id="26">
+  <image width="32" height="16" source="treeTop.png"/>
  </tile>
 </tileset>
