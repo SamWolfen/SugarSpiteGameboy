@@ -5,14 +5,14 @@
         "startX": 20,
         "startY": 9,
         "startDirection": "right",
-        "zoom": 275,
-        "startSceneId": "b0ee1451-32a8-41ce-a69a-3351bf1ac65f",
+        "zoom": 25,
+        "startSceneId": "df721446-f78a-4515-ae11-b02c37bab4e5",
         "playerSpriteSheetId": "bbc9d6e9-8cc1-445d-b700-57d576050772",
         "startAnimSpeed": "4"
     },
     "_version": "1.1.0",
     "author": "Sam",
-    "name": "GBTEST",
+    "name": "SugarAndSpiteGB",
     "variables": [
         {
             "id": "0",
@@ -36,7 +36,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "ARTplaceholder.png",
-            "_v": 1559653610014
+            "_v": 1559728881231
         },
         {
             "id": "cc9c5eec-5204-432c-9e6c-366a5325d610",
@@ -46,7 +46,7 @@
             "imageWidth": 512,
             "imageHeight": 512,
             "filename": "Grafont.png",
-            "_v": 1559653610013
+            "_v": 1559728881232
         },
         {
             "id": "64285352-72a9-4b43-b311-43ca3212f8d1",
@@ -56,7 +56,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "Grafont/GrafontE.png",
-            "_v": 1559653610013
+            "_v": 1559728881231
         },
         {
             "id": "e1f977c4-7814-495d-8942-33f8adb06677",
@@ -66,7 +66,7 @@
             "imageWidth": 256,
             "imageHeight": 240,
             "filename": "Grafont/GrafontLower.png",
-            "_v": 1559653610013
+            "_v": 1559728881231
         },
         {
             "id": "adae90fb-a6e4-4b0e-843d-edaedd4082d0",
@@ -76,7 +76,7 @@
             "imageWidth": 256,
             "imageHeight": 248,
             "filename": "Grafont/GrafontShrine.png",
-            "_v": 1559653610015
+            "_v": 1559728881231
         },
         {
             "id": "b446dbd8-13d1-4fac-a4ed-5f4bcaf56477",
@@ -86,7 +86,7 @@
             "imageWidth": 256,
             "imageHeight": 248,
             "filename": "Grafont/GrafontShrineNEW.png",
-            "_v": 1559653610014
+            "_v": 1559728881231
         },
         {
             "id": "77d14b77-082c-4724-a2ba-2d54ee1154ce",
@@ -96,7 +96,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "Grafont/GrafontTown1.png",
-            "_v": 1559653610014
+            "_v": 1559728881231
         },
         {
             "id": "fe638655-9f20-40f2-9bc4-7dcde0220545",
@@ -106,7 +106,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "Grafont/GrafontTown2Fountain.png",
-            "_v": 1559653610015
+            "_v": 1559728881231
         },
         {
             "id": "7101754c-e542-4818-b164-4009c38086cd",
@@ -116,7 +116,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "Grafont/GrafontTown3Shop.png",
-            "_v": 1559653610015
+            "_v": 1559728881231
         },
         {
             "id": "edd14afb-96f0-4e5f-ad9c-fd77213c5840",
@@ -126,7 +126,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "Grafont/GrafontW.png",
-            "_v": 1559653610015
+            "_v": 1559728881231
         },
         {
             "id": "8e56b2be-7286-40a2-a281-5158f7fc428f",
@@ -136,7 +136,7 @@
             "imageWidth": 256,
             "imageHeight": 256,
             "filename": "Grafont/LargeGrafont1.png",
-            "_v": 1559653610015
+            "_v": 1559728881231
         },
         {
             "id": "e024ceae-cfa6-4cdb-8ca0-26b1d8f65bbc",
@@ -146,7 +146,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "Grafont/Shop.png",
-            "_v": 1559653610015
+            "_v": 1559728881231
         },
         {
             "id": "284e40b1-2600-48bc-bfbc-a2372ae5ce42",
@@ -156,7 +156,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "Grafont/SmallROom.png",
-            "_v": 1559653610015
+            "_v": 1559728881231
         },
         {
             "id": "1d6c17b5-b7d4-4c30-8e78-35113623efbd",
@@ -166,7 +166,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "Grafont/SofieHouse1.png",
-            "_v": 1559653610015
+            "_v": 1559728881231
         },
         {
             "id": "218dd845-3a35-49d1-b212-ca242093d466",
@@ -176,7 +176,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "Grafont/SofieHouseG.png",
-            "_v": 1559653610015
+            "_v": 1559728881231
         },
         {
             "id": "8c91d67e-d637-468f-b373-9798504dbae9",
@@ -186,7 +186,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "Grafont/Town1.png",
-            "_v": 1559653610015
+            "_v": 1559728881231
         },
         {
             "id": "1e5f9d6a-bdbc-43e6-8c34-22f5bb5dea05",
@@ -196,7 +196,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "placeholder.png",
-            "_v": 1559653610015
+            "_v": 1559728881231
         },
         {
             "id": "854b3414-bc82-4f5a-8882-04e15de4bb33",
@@ -206,7 +206,7 @@
             "imageWidth": 256,
             "imageHeight": 256,
             "filename": "test.png",
-            "_v": 1559653610015
+            "_v": 1559728881231
         },
         {
             "id": "209c112f-0377-4bd8-a436-bcf73c73367f",
@@ -216,7 +216,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "TileMap.png",
-            "_v": 1559653610015
+            "_v": 1559728881231
         },
         {
             "id": "2849b2a5-fcfe-45bb-af83-8a0383061a92",
@@ -226,7 +226,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "Title/Menu1.png",
-            "_v": 1559653610015
+            "_v": 1559728881232
         },
         {
             "id": "95bfddd7-c8f7-41e0-b249-972569bd0613",
@@ -236,7 +236,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "Title/SSSplash.png",
-            "_v": 1559653610015
+            "_v": 1559728881232
         },
         {
             "id": "fb8ac4c6-cb02-4953-945c-a3e34527aa38",
@@ -246,7 +246,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "Title/SSTitle.png",
-            "_v": 1559653610016
+            "_v": 1559728881232
         },
         {
             "id": "fdfcf807-9d46-4129-bb44-1dbf3c6faabf",
@@ -256,7 +256,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "TophatWoods/TophatWoods1.png",
-            "_v": 1559653610016
+            "_v": 1559728881232
         },
         {
             "id": "8ca8d439-7e93-4514-a70f-6acab7d2964f",
@@ -266,7 +266,57 @@
             "imageWidth": 240,
             "imageHeight": 240,
             "filename": "TophatWoods/TophatWoods2.png",
-            "_v": 1559653610016
+            "_v": 1559728881232
+        },
+        {
+            "id": "1a90e585-a0cf-4eb0-b279-dd9c00827e8a",
+            "name": "TophatWoods/TophatWoods3",
+            "width": 20,
+            "height": 18,
+            "imageWidth": 160,
+            "imageHeight": 144,
+            "filename": "TophatWoods/TophatWoods3.png",
+            "_v": 1559728881232
+        },
+        {
+            "id": "fc21ea34-92e2-40f6-b3f2-6e3f69c6d0b8",
+            "name": "TophatWoods/TophatWoods4",
+            "width": 20,
+            "height": 18,
+            "imageWidth": 160,
+            "imageHeight": 144,
+            "filename": "TophatWoods/TophatWoods4.png",
+            "_v": 1559728881232
+        },
+        {
+            "id": "2730dcec-3307-4b18-834f-e78640605c7f",
+            "name": "TophatWoods/TophatWoods5",
+            "width": 20,
+            "height": 18,
+            "imageWidth": 160,
+            "imageHeight": 144,
+            "filename": "TophatWoods/TophatWoods5.png",
+            "_v": 1559728881232
+        },
+        {
+            "id": "c01ea59f-6a5b-4436-a4b8-308f03084db7",
+            "name": "TophatWoods/TophatWoods6",
+            "width": 30,
+            "height": 30,
+            "imageWidth": 240,
+            "imageHeight": 240,
+            "filename": "TophatWoods/TophatWoods6.png",
+            "_v": 1559728881232
+        },
+        {
+            "id": "1e944d32-99e5-4ef5-8404-2bebbe97f24b",
+            "name": "TophatWoods/TophatWoods7",
+            "width": 30,
+            "height": 30,
+            "imageWidth": 240,
+            "imageHeight": 240,
+            "filename": "TophatWoods/TophatWoods7.png",
+            "_v": 1559728881233
         }
     ],
     "spriteSheets": [
@@ -276,7 +326,7 @@
             "numFrames": 12,
             "type": "animated",
             "filename": "actor_animated_SugarSpriteGBAnimation.png",
-            "_v": 1559653610023
+            "_v": 1559728881237
         },
         {
             "id": "581d34d0-9591-4e6e-a609-1d94f203b0cd",
@@ -284,7 +334,7 @@
             "numFrames": 6,
             "type": "actor_animated",
             "filename": "actor_animated.png",
-            "_v": 1559653610023
+            "_v": 1559728881238
         },
         {
             "id": "11b5452b-187c-43a3-afb1-a1f4f74ffda2",
@@ -292,7 +342,7 @@
             "numFrames": 3,
             "type": "actor",
             "filename": "actor.png",
-            "_v": 1559653610023
+            "_v": 1559728881238
         },
         {
             "id": "9efb04ae-fdf1-4485-9bd5-e8a1e4d71b36",
@@ -300,7 +350,7 @@
             "numFrames": 1,
             "type": "static",
             "filename": "bed.png",
-            "_v": 1559653610023
+            "_v": 1559728881238
         },
         {
             "id": "75a1da24-f8cd-48af-9503-f7d2cc778062",
@@ -308,7 +358,7 @@
             "numFrames": 1,
             "type": "static",
             "filename": "Black.png",
-            "_v": 1559653610023
+            "_v": 1559728881238
         },
         {
             "id": "26206cd0-20a4-44c5-911b-b442f50b7de6",
@@ -316,7 +366,7 @@
             "numFrames": 1,
             "type": "static",
             "filename": "Blank.png",
-            "_v": 1559653610023
+            "_v": 1559728881238
         },
         {
             "id": "a03dc1a3-d12c-429f-929e-83fd77cc4176",
@@ -324,7 +374,7 @@
             "numFrames": 5,
             "type": "animated",
             "filename": "Campfire.png",
-            "_v": 1559653610023
+            "_v": 1559728881238
         },
         {
             "id": "3961277c-5e87-4ba9-8f00-11dbb8ef583f",
@@ -332,7 +382,15 @@
             "numFrames": 6,
             "type": "actor_animated",
             "filename": "DoggoAni.png",
-            "_v": 1559653610023
+            "_v": 1559728881238
+        },
+        {
+            "id": "acb42659-2474-4cc9-ad3e-0003fec61d59",
+            "name": "OldManAnimation",
+            "numFrames": 6,
+            "type": "actor_animated",
+            "filename": "OldManAnimation.png",
+            "_v": 1559728881238
         },
         {
             "id": "daf95270-e30d-423b-9ee7-990ae29f57f6",
@@ -340,7 +398,7 @@
             "numFrames": 1,
             "type": "static",
             "filename": "static.png",
-            "_v": 1559653610023
+            "_v": 1559728881238
         },
         {
             "id": "8adc8751-9191-45d0-b87e-277fe88675cf",
@@ -348,7 +406,7 @@
             "numFrames": 1,
             "type": "static",
             "filename": "SugarSpriteGB.png",
-            "_v": 1559653610024
+            "_v": 1559728881238
         },
         {
             "id": "bbc9d6e9-8cc1-445d-b700-57d576050772",
@@ -356,7 +414,7 @@
             "numFrames": 6,
             "type": "actor_animated",
             "filename": "SugarSpriteGBAnimation.png",
-            "_v": 1559653610030
+            "_v": 1559728881238
         },
         {
             "id": "58d92da8-7098-4f45-bd7a-a495e9c01eb2",
@@ -364,7 +422,7 @@
             "numFrames": 1,
             "type": "static",
             "filename": "SwordSpriteGB.png",
-            "_v": 1559653610030
+            "_v": 1559728881238
         }
     ],
     "scenes": [
@@ -3804,8 +3862,8 @@
             "id": "0ff59d46-cbf7-4a3d-a89a-23f066fd1fc2",
             "name": "Twoods1",
             "backgroundId": "fdfcf807-9d46-4129-bb44-1dbf3c6faabf",
-            "x": 836.5714285714286,
-            "y": 1159.4285714285716,
+            "x": 837.9047619047619,
+            "y": 1167.4285714285716,
             "width": 20,
             "height": 18,
             "actors": [],
@@ -3862,8 +3920,8 @@
             "id": "543217cf-9476-43f5-b3bd-04e8163cd28f",
             "name": "Twoods2",
             "backgroundId": "8ca8d439-7e93-4514-a70f-6acab7d2964f",
-            "x": 591.5844155844155,
-            "y": 1176.3116883116882,
+            "x": 590.2510822510822,
+            "y": 1145.7339105339104,
             "width": 30,
             "height": 30,
             "actors": [
@@ -3879,12 +3937,12 @@
                     "name": "Doggo1",
                     "script": [
                         {
-                            "id": "86ea0f2f-85f8-4242-b598-2af569cd8ca6",
+                            "id": "41fba150-16d5-4d3e-a363-70ec8da5ecce",
                             "command": "EVENT_ACTOR_MOVE_TO",
                             "args": {
-                                "actorId": "player",
-                                "x": 0,
-                                "y": 0
+                                "actorId": "68b7556e-8b5c-4ba3-b4d3-f79b8d66f400",
+                                "x": 22,
+                                "y": 19
                             }
                         },
                         {
@@ -4009,6 +4067,445 @@
                 0,
                 0,
                 0
+            ],
+            "script": [
+                {
+                    "id": "3d433291-c1c7-48a9-b687-8b4eaba2546f",
+                    "command": "EVENT_ACTOR_INVOKE",
+                    "args": {
+                        "actorId": "68b7556e-8b5c-4ba3-b4d3-f79b8d66f400"
+                    }
+                },
+                {
+                    "id": "539a9aae-b02e-4099-bcea-172349f2e147",
+                    "command": "EVENT_END"
+                }
+            ]
+        },
+        {
+            "id": "7ec7f2e8-1be0-45af-afa1-a2fb8b57dd39",
+            "name": "Twoods3",
+            "backgroundId": "1a90e585-a0cf-4eb0-b279-dd9c00827e8a",
+            "x": 424.80000000000007,
+            "y": 1260.8000000000002,
+            "width": 20,
+            "height": 18,
+            "actors": [],
+            "triggers": [],
+            "collisions": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "a05c48ad-03da-472a-8f1b-842e452de4f7",
+            "name": "Twoods4",
+            "backgroundId": "fc21ea34-92e2-40f6-b3f2-6e3f69c6d0b8",
+            "x": 619.2000000000002,
+            "y": 1429.6000000000001,
+            "width": 20,
+            "height": 18,
+            "actors": [],
+            "triggers": [],
+            "collisions": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "174b19b0-52b7-4033-8124-e1798bcbcd76",
+            "name": "Twoods7",
+            "backgroundId": "1e944d32-99e5-4ef5-8404-2bebbe97f24b",
+            "x": 447.4666666666666,
+            "y": 1882.3999999999999,
+            "width": 30,
+            "height": 30,
+            "actors": [],
+            "triggers": [],
+            "collisions": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "3c20ff92-6f58-4d12-90a8-19bbb8f7f483",
+            "name": "twoods5",
+            "backgroundId": "2730dcec-3307-4b18-834f-e78640605c7f",
+            "x": 396.79999999999995,
+            "y": 1430.4,
+            "width": 20,
+            "height": 18,
+            "actors": [],
+            "triggers": [],
+            "collisions": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "6377a2f9-02f8-4f04-b1fa-eee6bb1a57b1",
+            "name": "twoods6",
+            "backgroundId": "c01ea59f-6a5b-4436-a4b8-308f03084db7",
+            "x": 425.59999999999997,
+            "y": 1591.4666666666667,
+            "width": 30,
+            "height": 30,
+            "actors": [],
+            "triggers": [],
+            "collisions": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
             ]
         }
     ],
@@ -4017,7 +4514,7 @@
             "id": "f50428ab-a084-4591-9bba-2ba10fe7b1c6",
             "name": "template",
             "filename": "template.mod",
-            "_v": 1559653610047
+            "_v": 1559728881240
         }
     ]
 }
